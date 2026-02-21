@@ -16,8 +16,8 @@ Dry Run（テスト実行）機能: 実際にファイルを移動する前に�
 リポジトリをクローンし、必要なライブラリをインストールします。
 
 Bash
-git clone https://github.com/[あなたのユーザー名]/[リポジトリ名].git
-cd [リポジトリ名]
+git clone https://github.com/Sante-HO/smart-sort.git
+cd smart-sort
 pip install PyYAML
 2. 設定（config.yaml）
 config.yaml を編集して、整理ルールを定義します。
