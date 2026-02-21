@@ -1,0 +1,4 @@
+app_name: "SmartSort"
+version: "1.0.0"
+target_dir: "."  # 整理したいフォルダの場所
+dry_run: true
